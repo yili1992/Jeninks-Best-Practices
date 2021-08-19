@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T03:10:04.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="V8n8Ms5sIgkmoQcMyHbz" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T05:35:21.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="0IoQDV8PTO1cbQBgDM1i" version="14.9.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="946" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oHo1-bXlcdcUj-FM_FA6-18" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="370" width="10" height="70" as="geometry" />
+          <mxGeometry x="505" y="370" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oHo1-bXlcdcUj-FM_FA6-19" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="675" y="370" width="10" height="130" as="geometry" />
@@ -120,10 +120,29 @@
         <mxCell id="oHo1-bXlcdcUj-FM_FA6-24" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="460" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oHo1-bXlcdcUj-FM_FA6-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="oHo1-bXlcdcUj-FM_FA6-3">
+        <mxCell id="oHo1-bXlcdcUj-FM_FA6-27" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1" source="oHo1-bXlcdcUj-FM_FA6-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="520" as="sourcePoint" />
             <mxPoint x="350" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oHo1-bXlcdcUj-FM_FA6-28" value="pipeline设置pass" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oHo1-bXlcdcUj-FM_FA6-27">
+          <mxGeometry x="-0.3232" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oHo1-bXlcdcUj-FM_FA6-29" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="420" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oHo1-bXlcdcUj-FM_FA6-30" value="" style="endArrow=classic;html=1;dashed=1;exitX=-0.3;exitY=0.585;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oHo1-bXlcdcUj-FM_FA6-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="470" as="sourcePoint" />
+            <mxPoint x="180" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oHo1-bXlcdcUj-FM_FA6-31" value="通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oHo1-bXlcdcUj-FM_FA6-30">
+          <mxGeometry x="0.7552" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
