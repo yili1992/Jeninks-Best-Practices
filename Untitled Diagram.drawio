@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T05:36:29.869Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="TiWiGJPzGkQkYa0cZTeA" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T05:38:54.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Y8_CmTZcgw4hQRv30ggx" version="14.9.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="946" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="MR 创建人 " style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="80" width="100" height="480" as="geometry" />
+          <mxGeometry x="120" y="80" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Gitlab" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="80" width="100" height="480" as="geometry" />
+          <mxGeometry x="300" y="80" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="90" as="geometry" />
@@ -34,13 +34,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oHo1-bXlcdcUj-FM_FA6-1" value="MR 审批人" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="80" width="100" height="480" as="geometry" />
+          <mxGeometry x="460" y="80" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="oHo1-bXlcdcUj-FM_FA6-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="oHo1-bXlcdcUj-FM_FA6-1">
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="oHo1-bXlcdcUj-FM_FA6-3" value="质测平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="80" width="100" height="480" as="geometry" />
+          <mxGeometry x="630" y="80" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="oHo1-bXlcdcUj-FM_FA6-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="oHo1-bXlcdcUj-FM_FA6-3">
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oHo1-bXlcdcUj-FM_FA6-24" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="460" width="10" height="40" as="geometry" />
+          <mxGeometry x="345" y="500" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oHo1-bXlcdcUj-FM_FA6-27" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1" source="oHo1-bXlcdcUj-FM_FA6-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,6 +142,21 @@
         </mxCell>
         <mxCell id="oHo1-bXlcdcUj-FM_FA6-31" value="通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oHo1-bXlcdcUj-FM_FA6-30">
           <mxGeometry x="0.7552" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oHo1-bXlcdcUj-FM_FA6-32" value="" style="endArrow=classic;html=1;dashed=1;exitX=1.2;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oHo1-bXlcdcUj-FM_FA6-24" target="oHo1-bXlcdcUj-FM_FA6-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="580" as="sourcePoint" />
+            <mxPoint x="420" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="504" />
+              <mxPoint x="390" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oHo1-bXlcdcUj-FM_FA6-33" value="MR运行合并" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oHo1-bXlcdcUj-FM_FA6-32">
+          <mxGeometry x="-0.0303" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
