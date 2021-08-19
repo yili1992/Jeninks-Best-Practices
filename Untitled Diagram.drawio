@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T05:35:21.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="0IoQDV8PTO1cbQBgDM1i" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T05:36:29.869Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="TiWiGJPzGkQkYa0cZTeA" version="14.9.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="946" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,7 +126,7 @@
             <mxPoint x="350" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oHo1-bXlcdcUj-FM_FA6-28" value="pipeline设置pass" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oHo1-bXlcdcUj-FM_FA6-27">
+        <mxCell id="oHo1-bXlcdcUj-FM_FA6-28" value="流水线中的CodeReview设置pass" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oHo1-bXlcdcUj-FM_FA6-27">
           <mxGeometry x="-0.3232" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
